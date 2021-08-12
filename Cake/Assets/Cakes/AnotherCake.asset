@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9eed4e6de8c1ad40bcea9fb92519522, type: 3}
+  m_Name: AnotherCake
+  m_EditorClassIdentifier: 
+  _cake: {fileID: 5672959447277469885, guid: e69f2bbfbd2170146abf2b87060c848f, type: 3}
+  _label: Another Cake
+  _icon: {fileID: 0}
+  _price: 5
+  _isBuy: 0
